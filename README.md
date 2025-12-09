@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://sundai.us">
-    <img src="assets/portfolio-demo.mp4" alt="Portfolio Demo" width="700">
+    <img src="assets/portfolio-demo.gif" alt="Portfolio Demo" width="700">
   </a>
 </p>
 
@@ -62,15 +62,15 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/movie-maker-2025/id6755254508">
-    <img src="https://raw.githubusercontent.com/okekedev/MovieMaker/main/deployment/screenshots/iphone-65-1.png" alt="MovieMaker" width="180">
+    <img src="https://raw.githubusercontent.com/okekedev/MovieMaker/main/deployment/screenshots/promo1.jpeg" alt="MovieMaker" width="180">
   </a>
   &nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/pixellearn/id6756083506">
-    <img src="https://raw.githubusercontent.com/okekedev/PixelLearn/main/deployment/screenshots/cropped/pliphonepromo2.png" alt="PixelLearn" width="180">
+    <img src="https://raw.githubusercontent.com/okekedev/PixelLearn/main/deployment/screenshots/cropped/pliphonepromo.png" alt="PixelLearn" width="180">
   </a>
   &nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/mini-business-manager/id6756030444">
-    <img src="https://raw.githubusercontent.com/okekedev/MBM/main/deployment/screenshots/mbmpromo1.png" alt="MBM" width="180">
+    <img src="https://raw.githubusercontent.com/okekedev/MBM/main/deployment/screenshots/mbmpromo.png" alt="MBM" width="180">
   </a>
 </p>
 
