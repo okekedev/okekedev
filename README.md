@@ -8,6 +8,10 @@
   <a href="https://www.linkedin.com/in/christianokeke/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
+  &nbsp;
+  <a href="https://sundai.us">
+    <img src="https://img.shields.io/badge/Portfolio-sundai.us-black?style=flat&logo=safari" alt="Portfolio">
+  </a>
 </p>
 
 ---
@@ -15,8 +19,14 @@
 ## Portfolio
 
 <p align="center">
-  <a href="https://github.com/okekedev/Portfolio2">
+  <a href="https://sundai.us">
     <img src="assets/portfolio-demo.mp4" alt="Portfolio Demo" width="700">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://sundai.us">
+    <img src="https://img.shields.io/badge/Visit%20Website-sundai.us-black?style=for-the-badge&logo=safari&logoColor=white" alt="Visit Website">
   </a>
 </p>
 
@@ -51,25 +61,25 @@
 ## iOS Apps
 
 <p align="center">
-  <a href="https://github.com/okekedev/MovieMaker">
-    <img src="https://raw.githubusercontent.com/okekedev/PixelLearn/main/deployment/screenshots/cropped/pliphonepromo.png" alt="MovieMaker" width="180">
+  <a href="https://apps.apple.com/us/app/movie-maker-2025/id6755254508">
+    <img src="https://raw.githubusercontent.com/okekedev/MovieMaker/main/deployment/screenshots/iphone-65-1.png" alt="MovieMaker" width="180">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/okekedev/PixelLearn">
+  <a href="https://apps.apple.com/us/app/pixellearn/id6756083506">
     <img src="https://raw.githubusercontent.com/okekedev/PixelLearn/main/deployment/screenshots/cropped/pliphonepromo2.png" alt="PixelLearn" width="180">
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/okekedev/MBM">
-    <img src="https://raw.githubusercontent.com/okekedev/PixelLearn/main/deployment/screenshots/cropped/pliphonepromo3.png" alt="MBM" width="180">
+  <a href="https://apps.apple.com/us/app/mini-business-manager/id6756030444">
+    <img src="https://raw.githubusercontent.com/okekedev/MBM/main/deployment/screenshots/mbmpromo1.png" alt="MBM" width="180">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/okekedev/MovieMaker"><strong>MovieMaker</strong></a>
+  <a href="https://apps.apple.com/us/app/movie-maker-2025/id6755254508"><strong>MovieMaker</strong></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/okekedev/PixelLearn"><strong>PixelLearn</strong></a>
+  <a href="https://apps.apple.com/us/app/pixellearn/id6756083506"><strong>PixelLearn</strong></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/okekedev/MBM"><strong>MBM</strong></a>
+  <a href="https://apps.apple.com/us/app/mini-business-manager/id6756030444"><strong>MBM</strong></a>
 </p>
 
 <p align="center">
@@ -78,6 +88,20 @@
   <sub>Kids Educational Game</sub>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub>Business Management</sub>
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/us/app/movie-maker-2025/id6755254508">
+    <img src="https://img.shields.io/badge/App_Store-MovieMaker-black?style=flat&logo=apple" alt="MovieMaker on App Store">
+  </a>
+  &nbsp;
+  <a href="https://apps.apple.com/us/app/pixellearn/id6756083506">
+    <img src="https://img.shields.io/badge/App_Store-PixelLearn-black?style=flat&logo=apple" alt="PixelLearn on App Store">
+  </a>
+  &nbsp;
+  <a href="https://apps.apple.com/us/app/mini-business-manager/id6756030444">
+    <img src="https://img.shields.io/badge/App_Store-MBM-black?style=flat&logo=apple" alt="MBM on App Store">
+  </a>
 </p>
 
 ---
