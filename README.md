@@ -48,7 +48,7 @@ Native Swift applications available on the App Store.
 
 | Sundai EQ | Globe3D | Sundai Radio |
 |:---:|:---:|:---:|
-| <a href="https://github.com/okekedev/EQ"><img src="https://raw.githubusercontent.com/okekedev/EQ/main/EQ-Translator/images/logomain.png" width="120" alt="Sundai EQ"></a> | <a href="https://github.com/okekedev/Globe3D"><img src="https://github.com/user-attachments/assets/fd2c75f3-00ad-491d-9f78-a5be4406e8c4" width="280" alt="Globe3D"></a> | <a href="https://github.com/okekedev/sundai-radio"><img src="https://raw.githubusercontent.com/okekedev/sundai-radio/main/example.png" width="180" alt="Sundai Radio"></a> |
+| <a href="https://github.com/okekedev/EQ"><img src="https://raw.githubusercontent.com/okekedev/EQ/main/EQ-Translator/images/logomain.png" width="120" alt="Sundai EQ"></a> | <a href="https://github.com/okekedev/Globe3D"><img src="assets/globe-demo.mp4" width="280" alt="Globe3D"></a> | <a href="https://github.com/okekedev/sundai-radio"><img src="https://raw.githubusercontent.com/okekedev/sundai-radio/main/example.png" width="180" alt="Sundai Radio"></a> |
 | Chrome extension for YouTube audio equalization. Bass boost, treble control, and custom presets. | Interactive 3D kiosk globe for trade shows and events. Real-time visitor tracking with Mapbox. | Retro-styled web radio player with curated Christian music channels. Built with Python/Dash. |
 
 ---
