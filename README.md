@@ -49,9 +49,11 @@ Native Swift applications available on the App Store.
 ## Websites
 
 <p align="center">
-  <a href="https://github.com/okekedev/Globe3D">
-    <video src="https://github.com/okekedev/okekedev/raw/main/assets/globe-demo.mp4" width="600" autoplay loop muted playsinline></video>
-  </a>
+ 
+
+https://github.com/user-attachments/assets/cace4c87-c4f0-4620-9367-b68f4a8863b0
+
+
 </p>
 
 <p align="center">
