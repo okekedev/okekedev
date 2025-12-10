@@ -48,18 +48,14 @@ Native Swift applications available on the App Store.
 
 ## Websites
 
-<p align="center">
- 
+<div align="center">
 
 https://github.com/user-attachments/assets/cace4c87-c4f0-4620-9367-b68f4a8863b0
 
+<a href="https://github.com/okekedev/Globe3D"><strong>Globe3D</strong></a><br>
+Interactive 3D kiosk globe for trade shows and events. Real-time visitor tracking with Mapbox.
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/okekedev/Globe3D"><strong>Globe3D</strong></a><br>
-  Interactive 3D kiosk globe for trade shows and events. Real-time visitor tracking with Mapbox.
-</p>
+</div>
 
 ---
 
