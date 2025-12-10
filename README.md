@@ -46,12 +46,27 @@ Native Swift applications available on the App Store.
 
 ---
 
-## Web Projects
+## Websites
 
-| Sundai EQ | Globe3D | Sundai Radio |
-|:---:|:---:|:---:|
-| <a href="https://github.com/okekedev/EQ"><img src="https://raw.githubusercontent.com/okekedev/EQ/main/EQ-Translator/images/logomain.png" width="120" alt="Sundai EQ"></a> | <a href="https://github.com/okekedev/Globe3D"><video src="https://github.com/okekedev/okekedev/raw/main/assets/globe-demo.mp4" width="280" autoplay loop muted playsinline></video></a> | <a href="https://github.com/okekedev/sundai-radio"><img src="https://raw.githubusercontent.com/okekedev/sundai-radio/main/example.png" width="180" alt="Sundai Radio"></a> |
-| Chrome extension for YouTube audio equalization. Bass boost, treble control, and custom presets. | Interactive 3D kiosk globe for trade shows and events. Real-time visitor tracking with Mapbox. | Retro-styled web radio player with curated Christian music channels. Built with Python/Dash. |
+<p align="center">
+  <a href="https://github.com/okekedev/Globe3D">
+    <video src="https://github.com/okekedev/okekedev/raw/main/assets/globe-demo.mp4" width="600" autoplay loop muted playsinline></video>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/okekedev/Globe3D"><strong>Globe3D</strong></a><br>
+  Interactive 3D kiosk globe for trade shows and events. Real-time visitor tracking with Mapbox.
+</p>
+
+---
+
+## Other Projects
+
+| Sundai EQ | Sundai Radio |
+|:---:|:---:|
+| <a href="https://github.com/okekedev/EQ"><img src="https://raw.githubusercontent.com/okekedev/EQ/main/EQ-Translator/images/logomain.png" width="150" alt="Sundai EQ"></a> | <a href="https://github.com/okekedev/sundai-radio"><img src="https://raw.githubusercontent.com/okekedev/sundai-radio/main/example.png" width="200" alt="Sundai Radio"></a> |
+| Chrome extension for YouTube audio equalization. Bass boost, treble control, and custom presets. | Retro-styled web radio player with curated Christian music channels. Built with Python/Dash. |
 
 ---
 
