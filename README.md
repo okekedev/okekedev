@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://sundai.us">
-    <img src="assets/portfolio-demo.gif" alt="Portfolio Demo" width="700">
+    <img src="assets/portfolio-demo.mp4" alt="Portfolio Demo" width="700">
   </a>
 </p>
 
@@ -45,9 +45,9 @@
 </p>
 
 <p align="center">
-  <strong>MedRec</strong> - Clinical Document Review Platform
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>TitanPDF</strong> - ServiceTitan PDF Editor
+  <a href="https://github.com/okekedev/MecRec"><strong>MedRec</strong></a> - Clinical Document Review
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/okekedev/pdftitan"><strong>TitanPDF</strong></a> - ServiceTitan PDF Editor
 </p>
 
 <p align="center">
@@ -62,32 +62,24 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/movie-maker-2025/id6755254508">
-    <img src="https://raw.githubusercontent.com/okekedev/MovieMaker/main/deployment/screenshots/promo1.jpeg" alt="MovieMaker" width="180">
+    <img src="assets/apps/moviemaker.png" alt="MovieMaker" width="180">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/pixellearn/id6756083506">
-    <img src="https://raw.githubusercontent.com/okekedev/PixelLearn/main/deployment/screenshots/cropped/pliphonepromo.png" alt="PixelLearn" width="180">
+    <img src="assets/apps/pixellearn.png" alt="PixelLearn" width="180">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/mini-business-manager/id6756030444">
-    <img src="https://raw.githubusercontent.com/okekedev/MBM/main/deployment/screenshots/mbmpromo.png" alt="MBM" width="180">
+    <img src="assets/apps/mbm.png" alt="MBM" width="180">
   </a>
 </p>
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/movie-maker-2025/id6755254508"><strong>MovieMaker</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/pixellearn/id6756083506"><strong>PixelLearn</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/mini-business-manager/id6756030444"><strong>MBM</strong></a>
-</p>
-
-<p align="center">
-  <sub>Video Compilation Creator</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Kids Educational Game</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Business Management</sub>
 </p>
 
 <p align="center">
@@ -124,18 +116,10 @@
 
 <p align="center">
   <a href="https://github.com/okekedev/EQ"><strong>Sundai EQ</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/okekedev/Globe3D"><strong>Globe3D</strong></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/okekedev/sundai-radio"><strong>Sundai Radio</strong></a>
-</p>
-
-<p align="center">
-  <sub>Chrome Extension - YouTube EQ</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Interactive 3D Kiosk Globe</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <sub>Retro Web Radio Player</sub>
 </p>
 
 ---
