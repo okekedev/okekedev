@@ -9,9 +9,11 @@
 
 ## Portfolio Website
 
-<a href="https://sundai.us">
-  <video src="https://github.com/okekedev/okekedev/raw/main/assets/portfolio-demo.mp4" width="700" autoplay loop muted playsinline></video>
-</a>
+
+
+https://github.com/user-attachments/assets/2396741f-c347-4280-8d95-f1f6cce4cdba
+
+
 
 ---
 
