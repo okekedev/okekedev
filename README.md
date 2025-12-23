@@ -1,8 +1,4 @@
-# Christian Okeke
-
-Leading digital innovation at Healing Hands Healthcare while building full-stack applications from iOS apps to web platforms for profit, research and growth.
-
-<div align="center">
+# *Christian Okeke*<div align="Left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=IT+Director+%7C+Process+Innovator;iOS+Developer+%7C+Full-Stack+Engineer;Healthcare+IT+%7C+Cloud+Solutions;Building+Apps+for+Real-World+Impact)](https://git.io/typing-svg)
 
