@@ -34,7 +34,7 @@ Enterprise applications built for healthcare and field service industries.
 
 ## iOS Apps
 
-Native Swift applications available on the App Store.
+Swift applications available on the App Store.
 
 | MovieMaker | PixelLearn | MBM |
 |:---:|:---:|:---:|
