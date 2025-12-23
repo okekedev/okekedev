@@ -1,6 +1,6 @@
 # Christian Okeke
 
-**IT Director | Process Innovator | App Developer** — I lead digital transformation at Healing Hands Healthcare while building full-stack applications from iOS apps to web platforms for profit, research and growth.
+Leading digital innovation at Healing Hands Healthcare while building full-stack applications from iOS apps to web platforms for profit, research and growth.
 
 <div align="center">
 
@@ -9,18 +9,6 @@
 </div>
 
 ---
-
-### Tech Stack
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ### Favorite AI Tools
 
@@ -34,7 +22,6 @@
 
 
 https://github.com/user-attachments/assets/2396741f-c347-4280-8d95-f1f6cce4cdba
-
 
 
 ---
@@ -99,7 +86,6 @@ Interactive 3D kiosk globe for trade shows and events. Real-time visitor trackin
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ### Favorite AI Tools
 
