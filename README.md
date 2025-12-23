@@ -1,7 +1,6 @@
 # Christian Okeke
 
 **IT Director | Process Innovator | App Developer** — I lead digital transformation at Healing Hands Healthcare while building full-stack applications from iOS apps to web platforms for profit, research and growth.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianokeke/)
 
 ---
 
