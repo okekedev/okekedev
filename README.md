@@ -39,7 +39,7 @@ Swift applications available on the App Store.
 | MovieMaker | PixelLearn | MBM |
 |:---:|:---:|:---:|
 | <a href="https://apps.apple.com/us/app/movie-maker-2025/id6755254508"><img src="assets/apps/moviemaker.png" width="200" alt="MovieMaker"></a> | <a href="https://apps.apple.com/us/app/pixellearn/id6756083506"><img src="assets/apps/pixellearn.png" width="200" alt="PixelLearn"></a> | <a href="https://apps.apple.com/us/app/mini-business-manager/id6756030444"><img src="assets/apps/mbm.png" width="200" alt="MBM"></a> |
-| Create video compilations with trimming, slow motion, and background music. | Educational game for kids with adaptive difficulty, math quizzes, and memory games. | Invoice management, expense tracking, and business analytics for small businesses. |
+| Create videos easily with trimming, slow motion, and background music. | Educational game for kids with adaptive difficulty, math quizzes, and memory games. | Invoice management, expense tracking, and business analytics for small businesses. |
 | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/movie-maker-2025/id6755254508) | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/pixellearn/id6756083506) | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/mini-business-manager/id6756030444) |
 
 ---
