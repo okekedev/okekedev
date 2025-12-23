@@ -4,13 +4,7 @@
 
 </div>
 
----
-
-### Favorite AI Tools
-
-**Research**: Perplexity | **Planning**: Gemini | **Building**: Claude
-
----
+--
 
 ## Portfolio Website
 [Visit Portfolio →](https://sundai.us)
