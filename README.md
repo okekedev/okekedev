@@ -6,8 +6,8 @@
 
 ---
 
-
-[Visit Portfolio →](https://sundai.us)
+[Visit LLC →](https://okeke.us)
+[Visit Dev Portfolio →](https://sundai.us)
 
 
 
