@@ -11,12 +11,6 @@
 
 [Visit Dev Portfolio →](https://sundai.us)
 
----
-
-https://github.com/user-attachments/assets/2396741f-c347-4280-8d95-f1f6cce4cdba
-
-
----
 
 ## Business Solutions
 
