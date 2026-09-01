@@ -1,75 +1,33 @@
-# *Christian Okeke*
+# Christian Okeke
 
-**IT Director | Process Innovator | App Developer** — I lead digital transformation at Healing Hands Healthcare while building full-stack applications from iOS apps to web platforms for profit, research and growth.
+I build apps and business software from Wichita Falls, TX — consumer apps on the App Store, and custom software and websites for small businesses through [okeke.us](https://okeke.us).
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&vCenter=true&width=600&lines=IT+Director+%7C+Process+Innovator;iOS+Developer+%7C+Full-Stack+Engineer;Healthcare+IT+%7C+Cloud+Solutions;Building+Apps+for+Real-World+Impact)](https://git.io/typing-svg)
-
----
-
-[Visit LLC →](https://okeke.us)
-
-
-[Visit Dev Portfolio →](https://sundai.us)
-
-
-## Business Solutions
-
-Enterprise applications built for healthcare and field service industries.
-
-| MedRec | TitanPDF |
-|:---:|:---:|
-| <a href="https://github.com/okekedev/MecRec"><img src="https://raw.githubusercontent.com/okekedev/MecRec/main/screenshots/dashboard.png" width="350" alt="MedRec"></a> | <a href="https://github.com/okekedev/pdftitan"><img src="https://raw.githubusercontent.com/okekedev/pdftitan/main/screenshots/login.png" width="350" alt="TitanPDF"></a> |
-| HIPAA-compliant clinical document review platform with AI-powered data extraction and Microsoft Azure AD integration. | Professional PDF form editor with ServiceTitan integration for field technicians. Signature capture and tablet support. |
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christianokeke/">
-    <img src="https://img.shields.io/badge/Contact_for_Demo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contact for Demo">
-  </a>
-</p>
+**Currently:** shipping [Music in 2001](https://okekedev.github.io/MusicIn2001/) v1.3.0 — new icon, six-preset equalizer, and iCloud sync.
 
 ---
 
-## iOS Apps
+## Apps
 
-Swift applications available on the App Store.
+| App | What it does | Links |
+|---|---|---|
+| **Music in 2001** | Zune-style local MP3 player for Mac + iOS. Your library, synced over iCloud — no streaming, no ads. | [App Store](https://apps.apple.com/us/app/id6757622797) · [Site](https://okekedev.github.io/MusicIn2001/) · [GitHub](https://github.com/okekedev/MusicIn2001) |
+| **Money Factor: Lease & Loan** | Decodes the real APR on any car lease or loan. One-time purchase, no tracking. | [App Store](https://apps.apple.com/us/app/id6784068163) · [GitHub](https://github.com/okekedev/money-factor) |
+| **Computer Remote** | Turns your iPhone or iPad into a wireless keyboard and mouse for your Mac or PC. | [App Store](https://apps.apple.com/us/app/id6754469628) · [GitHub](https://github.com/okekedev/controlla) |
+| **Movie Maker: Highlight Reel** | Video compilations from your favorite moments — trimming, slow motion, background music. | [App Store](https://apps.apple.com/us/app/id6755254508) · [GitHub](https://github.com/okekedev/MovieMaker) |
+| **ScanPrice** | Point your camera at a price, see it converted to your currency in real time. | [App Store](https://apps.apple.com/us/app/id6755891772) · [GitHub](https://github.com/okekedev/CoinConvert) |
+| **PixelLearn** | Math and literacy game for kids with adaptive difficulty and progress tracking. | [App Store](https://apps.apple.com/us/app/id6756083506) · [GitHub](https://github.com/okekedev/PixelLearn) |
 
-| MovieMaker | PixelLearn | MBM |
-|:---:|:---:|:---:|
-| <a href="https://apps.apple.com/us/app/movie-maker-2025/id6755254508"><img src="assets/apps/moviemaker.png" width="200" alt="MovieMaker"></a> | <a href="https://apps.apple.com/us/app/pixellearn/id6756083506"><img src="assets/apps/pixellearn.png" width="200" alt="PixelLearn"></a> | <a href="https://apps.apple.com/us/app/mini-business-manager/id6756030444"><img src="assets/apps/mbm.png" width="200" alt="MBM"></a> |
-| Create videos easily with trimming, slow motion, and background music. | Educational game for kids with adaptive difficulty, math quizzes, and memory games. | Invoice management, expense tracking, and business analytics for small businesses. |
-| [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/movie-maker-2025/id6755254508) | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/pixellearn/id6756083506) | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white)](https://apps.apple.com/us/app/mini-business-manager/id6756030444) |
+All apps → [App Store developer page](https://apps.apple.com/us/developer/christian-okeke/id1534336568)
 
----
+## Web
 
-## Websites
+- **[okeke.us](https://okeke.us)** — software consulting, the Sapphires business dashboard platform, and websites for Wichita Falls small businesses
+- **[Tulsa Market Insights](https://okekedev.github.io/tulsa-market-insights/)** — home-health market-intelligence dashboard built on public CMS data ([GitHub](https://github.com/okekedev/tulsa-market-insights))
+- **[staycations](https://github.com/okekedev/staycations)** — React template for vacation-rental sites
 
-<div align="center">
+Also on GitHub: [pdftitan](https://github.com/okekedev/pdftitan) (PDF form editor for field technicians), [MecRec](https://github.com/okekedev/MecRec) (HIPAA-compliant clinical document review), [sundai-radio](https://github.com/okekedev/sundai-radio) (retro web radio player).
 
-https://github.com/user-attachments/assets/cace4c87-c4f0-4620-9367-b68f4a8863b0
+## Contact
 
-<a href="https://github.com/okekedev/Globe3D"><strong>Globe3D</strong></a><br>
-Interactive 3D kiosk globe for trade shows and events. Real-time visitor tracking with Mapbox.
-
-</div>
-
----
-
-## Other Projects
-
-| Sundai EQ | Sundai Radio |
-|:---:|:---:|
-| <a href="https://github.com/okekedev/EQ"><img src="https://raw.githubusercontent.com/okekedev/EQ/main/EQ-Translator/images/logomain.png" width="150" alt="Sundai EQ"></a> | <a href="https://github.com/okekedev/sundai-radio"><img src="https://raw.githubusercontent.com/okekedev/sundai-radio/main/example.png" width="200" alt="Sundai Radio"></a> |
-| Chrome extension for YouTube audio equalization. Bass boost, treble control, and custom presets. | Retro-styled web radio player with curated Christian music channels. Built with Python/Dash. |
-
----
-### Tech Stack
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianokeke/)
+[![Website](https://img.shields.io/badge/okeke.us-5EA7FF?style=for-the-badge&logoColor=white)](https://okeke.us)
